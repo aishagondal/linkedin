@@ -7,7 +7,7 @@
 <p>
 Stay informed about your contacts and industry <br>
 Find the people & knowledge you need to achieve your goals <br>
-Control your professional identity online <br>
+Control your professional identity  <br>
 
 </p>
 
